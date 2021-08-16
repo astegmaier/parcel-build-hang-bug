@@ -1,6 +1,6 @@
 # parcel-build-hang-bug
 
-This repo illustrates an issue with `parcel` `2.0.0-rc.0` where `parcel build` will fail to exit after completing.
+This repo illustrates [an issue](https://github.com/parcel-bundler/parcel/issues/6473) with `parcel` `2.0.0-rc.0` where `parcel build` will fail to exit after completing.
 
 ## Repro steps
 
